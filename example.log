@@ -1,0 +1,6 @@
+DEBUG:root:This message should go to the log file
+DEBUG:root:This message should go to the log file second line
+INFO:root:ADD: 20 + 10 = 30
+INFO:root:SUB: 20 - 10 = 10
+INFO:root:MUL: 20 * 10 = 200
+INFO:root:DIV: 20 / 10 = 2.0
